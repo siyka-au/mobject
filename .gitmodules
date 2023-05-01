@@ -1,0 +1,24 @@
+[submodule "mobject-events"]
+	path = mobject-events
+	url = git@github.com:siyka-au/mobject-events.git
+[submodule "mobject-disposable"]
+	path = mobject-disposable
+	url = git@github.com:siyka-au/mobject-disposable.git
+[submodule "mobject-json"]
+	path = mobject-json
+	url = git@github.com:siyka-au/mobject-json.git
+[submodule "mobject-collections"]
+	path = mobject-collections
+	url = git@github.com:siyka-au/mobject-collections.git
+[submodule "mobject-enumerable"]
+	path = mobject-enumerable
+	url = git@github.com:siyka-au/mobject-enumerable.git
+[submodule "mobject-converters"]
+	path = mobject-converters
+	url = git@github.com:siyka-au/mobject-converters.git
+[submodule "mobject.org"]
+	path = mobject.org
+	url = git@github.com:siyka-au/mobject.org.git
+[submodule "mobject-coding-convention"]
+	path = mobject-coding-convention
+	url = git@github.com:siyka-au/mobject-coding-convention.git
